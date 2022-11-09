@@ -12,7 +12,6 @@ Photography has played a major role historically in perpetuating and enabling so
 + Adversarial Fashion, https://adversarialfashion.com/
 + Jip van Leeuwenstein, Surveillance Exclusion, http://www.jipvanleeuwenstein.nl/
 + Sanne Weekers, Anonymity scarf, http://sanneweekers.nl/big-brother-is-watching-you/
-+ The Dazzle Club
 + Adam Harvey, CV Dazzle, 2013, https://ahprojects.com/cvdazzle/ 
 + Salvatore Vitale, Persuasive Systems, 2020 – ongoing, https://salvatore-vitale.com/#/project/persuasive-system 
 + Esther Hovers, False Positives, 2015–16, https://estherhovers.com/False-Positives
@@ -24,5 +23,11 @@ Photography has played a major role historically in perpetuating and enabling so
 Curators turned sports commentators Ann-Christin Bertrand and Marco De Mutiis will present artistic projects that have been created using CCTV cameras. The works address questions of surveillance, voyeurism and control through the lens of photography and the camera. Bertrand and De Mutiis ultimately choose what they consider to be the most exciting and best work. Viewers play an important part in the process: They can cast their vote and decide who amongst the artist did it better in CCTV cameras!
 
 ## WORKSHOP: Public CCTV cameras “hacking” 
+
+## READING
+
+## SCREEN WALK
+
+Screen Walk with The Dazzle Club
 
 
