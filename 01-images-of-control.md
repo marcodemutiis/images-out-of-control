@@ -17,6 +17,7 @@ Photography has played a major role historically in perpetuating and enabling so
 + Salvatore Vitale, Persuasive Systems, 2020 – ongoing, https://salvatore-vitale.com/#/project/persuasive-system 
 + Esther Hovers, False Positives, 2015–16, https://estherhovers.com/False-Positives
 + Dries Depoorter, The Follower, 2022, https://driesdepoorter.be/
++ Driesc Depoorter, The Flemish Scrollers, 2021-2022, https://driesdepoorter.be/theflemishscrollers/
 
 ## EVENT: Who did it best in CCTV cameras w/ Ann-Christine Bertrand
 
