@@ -16,4 +16,7 @@ https://vimeo.com/559752164
 
 ## WORKSHOP: 3D scanning like nobody’s watching, photogrammetry, basic 3D modelling
 
+## READING
+
+## SCREEN WALK
 
